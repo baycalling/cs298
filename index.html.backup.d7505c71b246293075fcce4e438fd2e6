@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Bay Careers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+	<!--link rel="stylesheet/less" href="less/bootstrap.less" type="text/css" /-->
+	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
+	<!--script src="js/less-1.3.3.min.js"></script-->
+	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
+	
+	<link href="css1/bootstrap.min.css" rel="stylesheet">
+	<link href="css1/style.css" rel="stylesheet">
+
+	
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
+
+  <!-- Fav and touch icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="img/favicon.png">
+  
+	<script type="text/javascript" src="js1/jquery.min.js"></script>
+	<script type="text/javascript" src="js1/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js1/scripts.js"></script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</head>
+
+<body>
+
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="navbar-header">
+					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="#">Bay Careers</a>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li class="active">
+							<a href="intern.html">Internships</a>
+						</li>
+						<li>
+							<a href="ncg.html">New College Graduates</a>
+						</li>
+						<li>
+							<a href="earnyourinterview.html">Code Challenges </a>
+						</li>
+						 <li>
+						   <a href="forum/index.php"> Bay Lists </a>
+						</li>
+						<li>
+							<a href="surveyresults.html"> Survey Results </a>
+						</li>
+						
+					</ul>
+					
+					
+				</div>
+				
+				
+			</nav>
+			
+			<div align ="right">
+				<tr>
+				<td>
+				<a href="https://twitter.com/baycareers" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @baycareers</a>
+				</td>
+				<td>
+				<input type="button" value="Job Seeker Survey" style="width: 160px; height: 25px;"  align= "center" onClick="window.location='https://www.surveymonkey.com/s/F887B25' ">
+				</td>
+				</tr>
+				</div>
+			<table class="table table-bordered table-hover table-condensed">
+				<thead>
+					<tr class="success">
+						<th>
+							#
+						</th>
+						<th>
+							Job Title
+						</th>
+						<th>
+						   Skills Set
+						</th>
+						<th>
+						    Duration
+						</th>
+						<th>
+						   Location
+						</th>
+						
+						<th>
+							Apply
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr class="success">
+						<td>
+							1
+						</td>
+						<td>
+							Stinger Ghaffarian Technologies 
+						</td>
+						<td>
+							 C, C++, Java, Python
+						</td>
+						<td>
+						      6 months
+						</td>
+						<td>
+							Mountain View
+						</td>
+						
+						<td>
+						    <a href="https://cw.halogensoftware.com/sgtinc/loadJobPostingDetails.do?jobPostingID=102742&source=jobList">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							2
+						</td>
+						<td>
+							Analytics Application Engineer Intern @ LinkedIn 
+						</td>
+						<td>
+							 DB (SQL and No SQL), scripting languages, Data Visualization, Web and MapReduce architectures
+						</td>
+						<td>
+						      
+						</td>
+						<td>
+							Mountain View
+						</td>
+						
+						<td>
+						    <a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qOW9Vfwy&j=o7QdYfwS&s=Indeed">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							3
+						</td>
+						<td>
+							Applied Data Mining Intern @ LinkedIn 
+						</td>
+						<td>
+							 DB (SQL and No SQL), scripting languages, Data Visualization, Web and MapReduce architectures
+						</td>
+						<td>
+						      
+						</td>
+						<td>
+							Mountain View
+						</td>
+						<td>
+						    <a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qOW9Vfwy&j=o2QdYfwN&s=Indeed">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							4
+						</td>
+						<td>
+							Web Development Engineer Intern @ EventBrite 
+						</td>
+						<td>
+							HTML, CSS, Ajax, Javascript, SQL and NoSQL , Python-Django 
+						</td>
+						<td>
+						    Summer 2014
+						</td>
+						<td>
+							San Francisco
+						</td>
+						
+						<td>
+						    <a href="https://www.eventbrite.com/jobs/?jobvite=true&jvi=odldYfwt%2CJob#current_positions">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							5
+						</td>
+						<td>
+							 Mobile Engineer Intern @ EventBrite 
+						</td>
+						<td>
+							RESTful web services, CoreData, Sqlite,Python in a production environment
+						</td>
+						<td>
+						    Summer 2014
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						     
+						<td>
+						    <a href="https://www.eventbrite.com/jobs/?jobvite=true&jvi=o8ldYfwo%2CJob#current_positions">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							6
+						</td>
+						<td>
+							User Experience Research Intern @ EventBrite
+						</td>
+						<td>
+							qualitative research methods, usability tests, expert reviews and task analysis
+						</td>
+						<td>
+						    Summer 2014
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="https://www.eventbrite.com/jobs/?jobvite=true&jvi=ofldYfwv%2CJob#current_positions">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							7
+						</td>
+						<td>
+							Software Engineering Internship @ Undertone 
+						</td>
+						<td>
+							Java, Ruby or C++
+						</td>
+						<td>
+						    
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="https://undertone.hua.hrsmart.com/hr/ats/Posting/view/205">Apply</a>
+						</td>
+					</tr>
+					
+					<tr class="success">
+						<td>
+							8
+						</td>
+						<td>
+							Software Engineer Intern @ Twitter 
+						</td>
+						<td>
+							Java, Scala, Ruby, C++, HTML, CSS and JavaScript
+						</td>
+						<td>
+						    Summer 2014
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="https://twitter.com/jobs/positions?jvi=onDqXfw7,Job&s=Indeed">Apply</a>
+						</td>
+					</tr>
+					
+				  <tr class="success">
+						<td>
+							9
+						</td>
+						<td>
+							UI Designer - Intern @ Yelp  
+						</td>
+						<td>
+							 HTML, CSS, AJAX, prototype.js, jQuery
+						</td>
+						<td>
+						    Spring 2014 
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="http://www.yelp.com/careers?jvi=or7TVfw6,Job">Apply</a>
+						</td>
+					</tr>
+					
+					 <tr class="success">
+						<td>
+							10
+						</td>
+						<td>
+							Software Engineer- Intern @ Yelp  
+						</td>
+						<td>
+							  JavaScript, HTTP, HTML/DOM, and CSS
+						</td>
+						<td>
+						    Summer 2014 
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="http://www.yelp.com/careers?jvi=oFOmWfwv,Job">Apply</a>
+						</td>
+					</tr>
+					
+					 <tr class="success">
+						<td>
+							11
+						</td>
+						<td>
+							UI Designer - Intern  @ Yelp  
+						</td>
+						<td>
+							 HTML, CSS, AJAX, prototype.js, jQuery
+						</td>
+						<td>
+						   Fall 2014 
+						</td>
+						<td>
+							San Francisco 
+						</td>
+						
+						<td>
+						    <a href="http://www.yelp.com/careers?jvi=oaOmWfw0,Job">Apply</a>
+						</td>
+					</tr>
+					
+					 <tr class="success">
+						<td>
+							11
+						</td>
+						<td>
+							Software - Intern  @ Tell Apart  
+						</td>
+						<td>
+							 AWS, web technologies and distributed systems and large-scale systems, Python and Java
+						</td>
+						<td>
+						  
+						</td>
+						<td>
+							 Burlingame 
+						</td>
+						
+						<td>
+						    <a href="http://www.tellapart.com/careers/?gnk=job&gni=8acda1104060b1b0014082841b233930&gns=Indeed">Apply</a>
+						</td>
+					</tr>
+					
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+</body>
+</html>
